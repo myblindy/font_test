@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "font_test", "font_test\font_test.csproj", "{4C2A0BE3-46A8-4B3A-8C9D-7C2F4D83ED64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C2A0BE3-46A8-4B3A-8C9D-7C2F4D83ED64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2A0BE3-46A8-4B3A-8C9D-7C2F4D83ED64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2A0BE3-46A8-4B3A-8C9D-7C2F4D83ED64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2A0BE3-46A8-4B3A-8C9D-7C2F4D83ED64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08BBF001-F41E-4CFF-A7B8-DF9D0877E90B}
+	EndGlobalSection
+EndGlobal
